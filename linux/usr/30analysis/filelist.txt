@@ -1,0 +1,6 @@
+./sample1/sample_main.c
+./sample1/sample_sub.c
+./ZZZZZZ/if-do.c
+./ZZZZZZ/ok/utf16.c
+./ZZZZZZ/struct_in_paren.c
+./ZZZZZZ/switching-if-partially.c

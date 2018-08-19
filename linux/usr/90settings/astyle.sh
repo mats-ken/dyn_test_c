@@ -1,0 +1,1 @@
+astyle --indent=tab=4 --add-one-line-brackets --mode=c --style=kr --suffix=none
